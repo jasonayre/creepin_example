@@ -4,7 +4,7 @@ An example of how to use my creepin gem.
 
 ## How do I make it run
 
-		git clone
+		git clone https://github.com/jasonayre/creepin_example.git
 		bundle install
 		rake db:drop && rake db:create && rake db:migrate
 		rails c
