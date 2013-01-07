@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  price: 1.5
+  description: MyText
+  details: MyText
+  external_id: 1
+  external_url: MyString
+  external_provider: MyString
+
+two:
+  title: MyString
+  price: 1.5
+  description: MyText
+  details: MyText
+  external_id: 1
+  external_url: MyString
+  external_provider: MyString
